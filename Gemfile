@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'jekyll'
+    gem 'jekyll-feed'
+    gem 'jekyll-github-metadata'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-twitter-plugin'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'kramdown'
+    gem 'kramdown-parser-gfm'
+    gem 'jekyll-seo-tag'
+    gem 'jemoji'
+end
